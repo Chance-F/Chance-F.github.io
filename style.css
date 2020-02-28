@@ -70,7 +70,7 @@ figure {
 
 #sidebar {
     width: 250px;
-    position: fixed;
+    position: bottom;
     top: 0;
     left: 0;
     height: 75vh;
