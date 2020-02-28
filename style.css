@@ -71,7 +71,7 @@ figure {
 #sidebar {
     width: 250px;
     position: fixed;
-    top: 10;
+    top: 15;
     left: 0;
     height: 100vh;
     z-index: 999;
