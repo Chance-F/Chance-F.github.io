@@ -75,7 +75,7 @@ figure {
     left: 0;
     height: 75vh;
     z-index: 999;
-    background: #7386D5;
+    background: #a9a9a9;
     color: #a9a9a9;
     transition: all 0.3s;
 }
