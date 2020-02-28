@@ -69,11 +69,11 @@ figure {
 }
 
 #sidebar {
-    width: 100px;
+    width: 250px;
     position: fixed;
     top: 10;
     left: 0;
-    height: 75vh;
+    height: 100vh;
     z-index: 999;
     background: #838383;
     color: #838383;
