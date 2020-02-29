@@ -68,21 +68,52 @@ figure {
     width: 100%;
 }
 
-#sidebar {
-    width: 250px;
-    position: fixed;
-    top: 20;
-    left: 0;
+.col-sm-2 {
     height: 100vh;
-    z-index: 999;
-    background: #838383;
-    color: #fff;
-    transition: all 0.3s;
+    color: white;
+   /*-- background: #838383; --*/
 }
 
+.title {
+  text-align: center;
+  font-family: "Times New Roman";
+  text-transform: uppercase;
+  color: #FFD700;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  background: url(https://topgamersguide.com/wp-content/uploads/2019/07/title.jpg);
+}
 
+.Logo {
+  height: 35px;
+  width: 35px;
+}
 
+.col-sm-10 {
+  color: white;
+}
 
+.body {
+   background: url(https://cdnb.artstation.com/p/assets/images/images/015/609/793/large/artur-sadlos-leg-more-sh220-background-as-v002.jpg?1548954985);
+}
+h1 {
+  text-align: left;
+}
+
+.champions {
+  float: center;
+  width: 250px;
+  text-align:bottom;
+  margin: 20px;
+}
+
+figure {
+    width:22%;
+    float:left;
+    margin:0px;
+    text-align:center;
+    padding:0px;
+}
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
