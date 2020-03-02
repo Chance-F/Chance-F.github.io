@@ -142,6 +142,11 @@ figure {
   height: 350px;
   width: 450px;
 }
+
+.greatness {
+  text-transform: uppercase;
+  color: red;
+}
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
